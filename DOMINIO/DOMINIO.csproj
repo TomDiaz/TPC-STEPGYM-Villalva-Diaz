@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Beneficio.cs" />
+    <Compile Include="Clase.cs" />
+    <Compile Include="Contenido.cs" />
     <Compile Include="Ejercicio.cs" />
+    <Compile Include="Horario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TipoUsuario.cs" />
     <Compile Include="Usuario.cs" />
