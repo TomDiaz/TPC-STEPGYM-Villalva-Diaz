@@ -1,0 +1,27 @@
+﻿body {
+    padding: 0;
+}
+
+
+.navbar-nav {
+    margin: auto;
+    padding: 10px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: #e12200 !important;
+    font-weight: 600;
+}
+
+footer {
+    background: black;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.carousel-item {
+    height: 500px;
+}
